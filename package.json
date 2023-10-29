@@ -6,11 +6,15 @@
   "bin": {
     "cyp-cli": "bin/main.js"
   },
+  "files": [
+    "bin",
+    "libs"
+  ],
   "scripts": {
     
   },
   "author": "cyp",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^9.4.1",
