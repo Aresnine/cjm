@@ -1,0 +1,22 @@
+{
+  "name": "cyp-cli",
+  "version": "0.0.1",
+  "description": "cyp脚手架",
+  "main": "index.js",
+  "bin": {
+    "cyp-cli": "bin/main.js"
+  },
+  "scripts": {
+    
+  },
+  "author": "cyp",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.5",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.5"
+  }
+}
